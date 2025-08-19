@@ -1,12 +1,12 @@
+# Analítica Web en Quality Alloys, Inc.
 
 # ------------------------------------------------------
-Analítica Web en Quality Alloys, Inc.
 
-POR DANIELA PLATA* Y LUCÍA VALLESTEROS*
+POR DANIELA PLATA Y LUCÍA VALLESTEROS
 
 Afiliación académica
-*Estudiante, Pontificia Universidad Javeriana
-†Estudiante, Pontificia Universidad Javeriana
+Estudiante, Pontificia Universidad Javeriana
+Estudiante, Pontificia Universidad Javeriana
 
 Agradecimientos
 Este trabajo fue desarrollado como parte del curso Analítica de Negocios en la Pontificia Universidad Javeriana.
