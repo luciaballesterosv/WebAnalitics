@@ -5,13 +5,13 @@
 POR DANIELA PLATA Y LUCÍA VALLESTEROS
 
 ## Afiliación académica  
+Estudiante, Pontificia Universidad Javeriana  
 \*Estudiante, Pontificia Universidad Javeriana  
-†Estudiante, Pontificia Universidad Javeriana  
 
-Agradecimientos
+## Agradecimientos
 Este trabajo fue desarrollado como parte del curso Analítica de Negocios en la Pontificia Universidad Javeriana.
 
-Derechos de autor
+## Derechos de autor
 ©2025 Daniela Plata & Lucía Vallesteros. Este repositorio ha sido creado con fines académicos y no representa un aval ni un juicio sobre el material incluido.
 # ------------------------------------------------------
 
