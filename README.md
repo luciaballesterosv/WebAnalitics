@@ -4,7 +4,7 @@ POR DANIELA PLATA Y LUCÍA BALLESTEROS
 
 ## Afiliación académica  
 Estudiante, Pontificia Universidad Javeriana  
-\Estudiante, Pontificia Universidad Javeriana  
+Estudiante, Pontificia Universidad Javeriana  
 
 ## Agradecimientos
 Este trabajo fue desarrollado como parte del curso Analítica de Negocios en la Pontificia Universidad Javeriana.
@@ -32,7 +32,7 @@ Quality Alloys, Inc. (QA) es una empresa estadounidense de distribución de alea
 - Carpeta Scripts:
         Contiene un archivo .r para cada uno de los puntos propuestos en Web_Analytics.pdf.
 
-# LENGUAJE
+## Lenguaje
 El proyecto está desarrollado en R, un lenguaje y entorno de programación especializado en análisis estadístico, visualización de datos y modelado.
 En este repositorio, R se utilizó principalmente para:
     - Calcular medidas descriptivas de los datos (media, desviación estándar).
@@ -41,9 +41,13 @@ En este repositorio, R se utilizó principalmente para:
     - Medir ajuste a la normalidad mediante asimetría y curtosis.
     - Visualizar resultados en tablas y gráficos.
 
-# LIBRERIAS 
+## Librerias 
 El repositorio contiene las siguientes librerias:
-    - library(moments): Proporciona funciones para calcular medidas de forma estadística, como la asimetría y la curtosis, que ayudan a evaluar la distribución de los datos.
-    - library(readxl): Permite leer archivos de Excel (.xls y .xlsx) directamente en R sin necesidad de programas externos. Es muy útil para importar bases de datos en hojas de cálculo.
-    - library(tidyverse): Es un conjunto de paquetes integrados (como dplyr, ggplot2, tidyr) diseñados para el manejo, transformación y visualización de datos de forma ordenada, clara y eficiente.
-    - library(gt): Facilita la creación de tablas bien formateadas y estéticamente agradables directamente desde R, útiles para reportes y presentación de resultados.
+    - library(moments): 
+    Proporciona funciones para calcular medidas de forma estadística, como la asimetría y la curtosis, que ayudan a evaluar la distribución de los datos.
+    - library(readxl): 
+    Permite leer archivos de Excel (.xls y .xlsx) directamente en R sin necesidad de programas externos. Es muy útil para importar bases de datos en hojas de cálculo.
+    - library(tidyverse): 
+    Es un conjunto de paquetes integrados (como dplyr, ggplot2, tidyr) diseñados para el manejo, transformación y visualización de datos de forma ordenada, clara y eficiente.
+    - library(gt): 
+    Facilita la creación de tablas bien formateadas y estéticamente agradables directamente desde R, útiles para reportes y presentación de resultados.
