@@ -23,11 +23,11 @@ Quality Alloys, Inc. (QA) es una empresa estadounidense de distribución de alea
         Contiene Caso1_Web Analytics.docx y Caso1_Web Analytics.pdf con el informe de resultados de cada uno de los puntos del caso justificados.
 
 * _Carpeta Graficas:_
-        Contiene imagenes .png de cada una de las graficas pedidas en Web_Analytics.pdf:
-        * Distibucion_Intervalos_Desviacion_Estandar_Lbs_Sold.PNG (Correspondiente al punto 8a)
-        * Histograma_Lbs_Sold.PNG (Correspondiente al punto 8b)
-        * Regla_Empirica_Lbs_Sold.PNG (Correspondiente al punto 8d)
-        * Resumen_Estadistico_Lbs_Sold.PNG (Correspondiente al punto 8e)
+  Contiene imagenes .png de cada una de las graficas pedidas en Web_Analytics.pdf:
+  + Distibucion_Intervalos_Desviacion_Estandar_Lbs_Sold.PNG (Correspondiente al punto 8a)
+  + Histograma_Lbs_Sold.PNG (Correspondiente al punto 8b)
+  + Regla_Empirica_Lbs_Sold.PNG (Correspondiente al punto 8d)
+  + Resumen_Estadistico_Lbs_Sold.PNG (Correspondiente al punto 8e)
 
 * _Carpeta Scripts:_
         Contiene un archivo .r para cada uno de los puntos propuestos en Web_Analytics.pdf.
@@ -35,11 +35,11 @@ Quality Alloys, Inc. (QA) es una empresa estadounidense de distribución de alea
 ## Lenguaje
 El proyecto está desarrollado en R, un lenguaje y entorno de programación especializado en análisis estadístico, visualización de datos y modelado.
 En este repositorio, R se utilizó principalmente para:
-    * Calcular medidas descriptivas de los datos (media, desviación estándar).
-    * Estimar intervalos y porcentajes teóricos de la distribución normal.
-    * Comparar los resultados observados contra los teóricos.
-    * Medir ajuste a la normalidad mediante asimetría y curtosis.
-    * Visualizar resultados en tablas y gráficos.
++ Calcular medidas descriptivas de los datos (media, desviación estándar).
++ Estimar intervalos y porcentajes teóricos de la distribución normal.
++ Comparar los resultados observados contra los teóricos.
++ Medir ajuste a la normalidad mediante asimetría y curtosis.
++ Visualizar resultados en tablas y gráficos.
 
 ## Librerias 
 El repositorio contiene las siguientes librerias:
