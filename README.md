@@ -43,11 +43,11 @@ En este repositorio, R se utilizó principalmente para:
 
 ## Librerias 
 El repositorio contiene las siguientes librerias:
-    1. library(moments): 
++ library(moments): 
     Proporciona funciones para calcular medidas de forma estadística, como la asimetría y la curtosis, que ayudan a evaluar la distribución de los datos.
-    2. library(readxl): 
++ library(readxl): 
     Permite leer archivos de Excel (.xls y .xlsx) directamente en R sin necesidad de programas externos. Es muy útil para importar bases de datos en hojas de cálculo.
-    3. library(tidyverse): 
++ library(tidyverse): 
     Es un conjunto de paquetes integrados (como dplyr, ggplot2, tidyr) diseñados para el manejo, transformación y visualización de datos de forma ordenada, clara y eficiente.
-    4. library(gt): 
++ library(gt): 
     Facilita la creación de tablas bien formateadas y estéticamente agradables directamente desde R, útiles para reportes y presentación de resultados.
