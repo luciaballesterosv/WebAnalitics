@@ -28,6 +28,23 @@ Quality Alloys, Inc. (QA) es una empresa estadounidense de distribución de alea
   + Histograma_Lbs_Sold.PNG (Correspondiente al punto 8b)
   + Regla_Empirica_Lbs_Sold.PNG (Correspondiente al punto 8d)
   + Resumen_Estadistico_Lbs_Sold.PNG (Correspondiente al punto 8e)
+  + finanzas_inquiries.png (Correspondiente al punto 10)
+  + finanzas_lbs.png (Correspondiente al punto 10)
+  + finanzas_profit.png (Correspondiente al punto 10)
+  + finanzas_revenue.png (Correspondiente al punto 10)
+  + libras_vendidas.png (Correspondiente al punto 10)
+  + motores_busqueda.png (Correspondiente al punto 10)
+  + navegadores.png (Correspondiente al punto 10)
+  + regiones_geograficas.png (Correspondiente al punto 10)
+  + sistemas_operativos.png (Correspondiente al punto 10)
+  + sitios_referencia.png (Correspondiente al punto 10)
+  + trafico_fuentes.png (Correspondiente al punto 10)
+  + visitas_diarias.png (Correspondiente al punto 10)
+  + weekly_bounce.png (Correspondiente al punto 10)
+  + weekly_nuevas.png (Correspondiente al punto 10)
+  + weekly_pageviews.png (Correspondiente al punto 10)
+  + weekly_tiempo.png (Correspondiente al punto 10)
+  + weekly_visitas.png (Correspondiente al punto 10)
 
 * _Carpeta Scripts:_
         Contiene un archivo .r para cada uno de los puntos propuestos en Web_Analytics.pdf.
